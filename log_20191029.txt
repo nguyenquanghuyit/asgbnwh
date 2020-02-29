@@ -1,0 +1,29 @@
+date/time	script	user	action	table	field	key value	old value	new value
+2019-10-29 15:33:45	/ASGBN_WH/tbl_unitlist.php	-1	A	tbl_unit	UnitName	1		qty/box
+2019-10-29 15:33:45	/ASGBN_WH/tbl_unitlist.php	-1	A	tbl_unit	idUnit	1		1
+2019-10-29 15:36:56	/ASGBN_WH/tbl_packunitlist.php	-1	A	tbl_packunit	packNo	1		2
+2019-10-29 15:36:56	/ASGBN_WH/tbl_packunitlist.php	-1	A	tbl_packunit	idUnit	1		
+2019-10-29 15:36:56	/ASGBN_WH/tbl_packunitlist.php	-1	A	tbl_packunit	idPacking	1		1
+2019-10-29 15:43:46	/ASGBN_WH/tbl_packunitlist.php	-1	U	tbl_packunit	idUnit	1		1
+2019-10-29 15:44:36	/ASGBN_WH/tbl_packunitlist.php	-1	A	tbl_packunit	packNo	2		5
+2019-10-29 15:44:36	/ASGBN_WH/tbl_packunitlist.php	-1	A	tbl_packunit	idUnit	2		1
+2019-10-29 15:44:36	/ASGBN_WH/tbl_packunitlist.php	-1	A	tbl_packunit	idPacking	2		2
+2019-10-29 16:31:34	/ASGBN_WH/tbl_product_detailadd.php	-1	A	tbl_product_detail	CODE	1		1000A406
+2019-10-29 16:31:34	/ASGBN_WH/tbl_product_detailadd.php	-1	A	tbl_product_detail	IdPacking	1		1
+2019-10-29 16:31:34	/ASGBN_WH/tbl_product_detailadd.php	-1	A	tbl_product_detail	DefaultCode	1		0
+2019-10-29 16:31:34	/ASGBN_WH/tbl_product_detailadd.php	-1	A	tbl_product_detail	IdCode	1		1
+2019-10-29 16:38:41	/ASGBN_WH/tbl_product_detailadd.php	-1	A	tbl_product_detail	CODE	2		1000A406
+2019-10-29 16:38:41	/ASGBN_WH/tbl_product_detailadd.php	-1	A	tbl_product_detail	IdPacking	2		2
+2019-10-29 16:38:41	/ASGBN_WH/tbl_product_detailadd.php	-1	A	tbl_product_detail	DefaultCode	2		0
+2019-10-29 16:38:41	/ASGBN_WH/tbl_product_detailadd.php	-1	A	tbl_product_detail	IdCode	2		2
+2019-10-29 16:39:27	/ASGBN_WH/tbl_product_detailedit.php	-1	U	tbl_product_detail	DefaultCode	1	0	1
+2019-10-29 20:55:29	/ASGBN_WH/tbl_product_detaildelete.php	-1	*** Batch delete begin ***	tbl_product_detail				
+2019-10-29 20:55:29	/ASGBN_WH/tbl_product_detaildelete.php	-1	D	tbl_product_detail	IdCode	1	1	
+2019-10-29 20:55:29	/ASGBN_WH/tbl_product_detaildelete.php	-1	D	tbl_product_detail	CODE	1	1000A406	
+2019-10-29 20:55:29	/ASGBN_WH/tbl_product_detaildelete.php	-1	D	tbl_product_detail	IdPacking	1	1	
+2019-10-29 20:55:29	/ASGBN_WH/tbl_product_detaildelete.php	-1	D	tbl_product_detail	DefaultCode	1	1	
+2019-10-29 20:55:29	/ASGBN_WH/tbl_product_detaildelete.php	-1	D	tbl_product_detail	IdCode	2	2	
+2019-10-29 20:55:29	/ASGBN_WH/tbl_product_detaildelete.php	-1	D	tbl_product_detail	CODE	2	1000A406	
+2019-10-29 20:55:29	/ASGBN_WH/tbl_product_detaildelete.php	-1	D	tbl_product_detail	IdPacking	2	2	
+2019-10-29 20:55:29	/ASGBN_WH/tbl_product_detaildelete.php	-1	D	tbl_product_detail	DefaultCode	2	0	
+2019-10-29 20:55:29	/ASGBN_WH/tbl_product_detaildelete.php	-1	*** Batch delete successful ***	tbl_product_detail				

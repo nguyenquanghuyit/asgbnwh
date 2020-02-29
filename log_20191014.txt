@@ -1,0 +1,46 @@
+date/time	script	user	action	table	field	key value	old value	new value
+2019-10-14 13:22:52	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	OrderDate	123		2019-10-14
+2019-10-14 13:22:52	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	InvoiceNo	123		
+2019-10-14 13:22:52	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CusomterOrderNo	123		0108E19X14
+2019-10-14 13:22:52	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	ID_Contact	123		65
+2019-10-14 13:22:52	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CreateUser	123		ASGBN
+2019-10-14 13:22:52	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CreateDate	123		2019-10-14 13:22:30
+2019-10-14 13:22:52	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	ID_Order	123		123
+2019-10-14 13:22:52	/asgbn_wh/tbl_orderadd.php	6	*** Batch insert begin ***	tbl_orderdetail				
+2019-10-14 13:22:52	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	Code	157		CW650232
+2019-10-14 13:22:52	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	PCS	157		1
+2019-10-14 13:22:52	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	ID_Order	157		123
+2019-10-14 13:22:52	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	ID_Detail	157		157
+2019-10-14 13:22:52	/asgbn_wh/tbl_orderadd.php	6	*** Batch insert successful ***	tbl_orderdetail				
+2019-10-14 13:22:55	/asgbn_wh/tbl_guiderlist.php	6	*** Batch update begin ***	tbl_guider				
+2019-10-14 13:22:55	/asgbn_wh/tbl_guiderlist.php	6	*** Batch update successful ***	tbl_guider				
+2019-10-14 13:24:10	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	OrderDate	124		2019-10-14
+2019-10-14 13:24:10	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	InvoiceNo	124		
+2019-10-14 13:24:10	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CusomterOrderNo	124		0301E19X04
+2019-10-14 13:24:10	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	ID_Contact	124		76
+2019-10-14 13:24:10	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CreateUser	124		ASGBN
+2019-10-14 13:24:10	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CreateDate	124		2019-10-14 13:23:20
+2019-10-14 13:24:10	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	ID_Order	124		124
+2019-10-14 13:24:10	/asgbn_wh/tbl_orderadd.php	6	*** Batch insert begin ***	tbl_orderdetail				
+2019-10-14 13:24:10	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	Code	158		MR229332...A6
+2019-10-14 13:24:10	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	PCS	158		1
+2019-10-14 13:24:10	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	ID_Order	158		124
+2019-10-14 13:24:10	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	ID_Detail	158		158
+2019-10-14 13:24:10	/asgbn_wh/tbl_orderadd.php	6	*** Batch insert successful ***	tbl_orderdetail				
+2019-10-14 13:24:14	/asgbn_wh/tbl_guiderlist.php	6	*** Batch update begin ***	tbl_guider				
+2019-10-14 13:24:15	/asgbn_wh/tbl_guiderlist.php	6	*** Batch update successful ***	tbl_guider				
+2019-10-14 13:24:50	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	OrderDate	125		2019-10-14
+2019-10-14 13:24:50	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	InvoiceNo	125		
+2019-10-14 13:24:50	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CusomterOrderNo	125		2901E19X05
+2019-10-14 13:24:50	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	ID_Contact	125		99
+2019-10-14 13:24:50	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CreateUser	125		ASGBN
+2019-10-14 13:24:50	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CreateDate	125		2019-10-14 13:24:28
+2019-10-14 13:24:50	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	ID_Order	125		125
+2019-10-14 13:24:50	/asgbn_wh/tbl_orderadd.php	6	*** Batch insert begin ***	tbl_orderdetail				
+2019-10-14 13:24:50	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	Code	159		4605B078
+2019-10-14 13:24:50	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	PCS	159		1
+2019-10-14 13:24:50	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	ID_Order	159		125
+2019-10-14 13:24:50	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	ID_Detail	159		159
+2019-10-14 13:24:50	/asgbn_wh/tbl_orderadd.php	6	*** Batch insert successful ***	tbl_orderdetail				
+2019-10-14 13:24:53	/asgbn_wh/tbl_guiderlist.php	6	*** Batch update begin ***	tbl_guider				
+2019-10-14 13:24:53	/asgbn_wh/tbl_guiderlist.php	6	*** Batch update successful ***	tbl_guider				

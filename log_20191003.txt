@@ -1,0 +1,31 @@
+date/time	script	user	action	table	field	key value	old value	new value
+2019-10-03 13:48:06	/asgbn_wh/tbl_stockdelete.php	-1	*** Batch delete begin ***	tbl_stock				
+2019-10-03 13:48:06	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	ID_Stock	4167	4167	
+2019-10-03 13:48:06	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	PalletID	4167	0968999328	
+2019-10-03 13:48:06	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	Code	4167	9993281	
+2019-10-03 13:48:06	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	ID_Location	4167	5	
+2019-10-03 13:48:06	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	PCS	4167	3	
+2019-10-03 13:48:06	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	DateIn	4167	2019-10-03 08:56:15	
+2019-10-03 13:48:06	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	Imp_id	4167	20191003085344	
+2019-10-03 13:48:06	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	User_ID	4167		
+2019-10-03 13:48:06	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	Note_PalletId	4167	0968999328	
+2019-10-03 13:48:06	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	CreateUser	4167	ALST-0250	
+2019-10-03 13:48:06	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	CreateDate	4167	2019-10-03 08:56:15	
+2019-10-03 13:48:06	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	UpdateUser	4167		
+2019-10-03 13:48:06	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	UpdateDate	4167		
+2019-10-03 13:48:06	/asgbn_wh/tbl_stockdelete.php	-1	*** Batch delete successful ***	tbl_stock				
+2019-10-03 14:48:53	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	OrderDate	102		2019-10-03
+2019-10-03 14:48:53	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	InvoiceNo	102		
+2019-10-03 14:48:53	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CusomterOrderNo	102		0108E19X05
+2019-10-03 14:48:53	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	ID_Contact	102		65
+2019-10-03 14:48:53	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CreateUser	102		ASGBN
+2019-10-03 14:48:53	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CreateDate	102		2019-10-03 14:46:01
+2019-10-03 14:48:53	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	ID_Order	102		102
+2019-10-03 14:48:53	/asgbn_wh/tbl_orderadd.php	6	*** Batch insert begin ***	tbl_orderdetail				
+2019-10-03 14:48:53	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	Code	135		6940A037HA
+2019-10-03 14:48:53	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	PCS	135		1
+2019-10-03 14:48:53	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	ID_Order	135		102
+2019-10-03 14:48:53	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	ID_Detail	135		135
+2019-10-03 14:48:53	/asgbn_wh/tbl_orderadd.php	6	*** Batch insert successful ***	tbl_orderdetail				
+2019-10-03 14:48:57	/asgbn_wh/tbl_guiderlist.php	6	*** Batch update begin ***	tbl_guider				
+2019-10-03 14:48:57	/asgbn_wh/tbl_guiderlist.php	6	*** Batch update successful ***	tbl_guider				

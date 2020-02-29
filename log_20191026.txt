@@ -1,0 +1,6 @@
+date/time	script	user	action	table	field	key value	old value	new value
+2019-10-26 13:50:24	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	148		Y17599676
+2019-10-26 13:53:54	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	148	Y17599676	Y17550524
+2019-10-26 13:54:49	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	141		Y17550374
+2019-10-26 13:56:52	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	142		Y17550529
+2019-10-26 13:57:21	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	146		Y17599675

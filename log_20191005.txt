@@ -1,0 +1,31 @@
+date/time	script	user	action	table	field	key value	old value	new value
+2019-10-05 12:24:37	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	103		Y
+2019-10-05 12:24:43	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	102		Y
+2019-10-05 16:20:13	/asgbn_wh/tbl_stockdelete.php	-1	*** Batch delete begin ***	tbl_stock				
+2019-10-05 16:20:13	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	ID_Stock	4204	4204	
+2019-10-05 16:20:13	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	PalletID	4204		
+2019-10-05 16:20:13	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	Code	4204	9993282	
+2019-10-05 16:20:13	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	ID_Location	4204	5	
+2019-10-05 16:20:13	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	PCS	4204	4	
+2019-10-05 16:20:13	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	DateIn	4204	2019-10-04 08:18:00	
+2019-10-05 16:20:13	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	Imp_id	4204	20191004081650	
+2019-10-05 16:20:13	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	User_ID	4204		
+2019-10-05 16:20:13	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	Note_PalletId	4204	0986999328	
+2019-10-05 16:20:13	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	CreateUser	4204	ALST-0250	
+2019-10-05 16:20:13	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	CreateDate	4204	2019-10-04 08:18:00	
+2019-10-05 16:20:13	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	UpdateUser	4204	ALST-0250	
+2019-10-05 16:20:13	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	UpdateDate	4204	2019-10-04 08:18:00	
+2019-10-05 16:20:13	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	ID_Stock	4203	4203	
+2019-10-05 16:20:13	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	PalletID	4203	0968999328	
+2019-10-05 16:20:13	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	Code	4203	9993281	
+2019-10-05 16:20:13	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	ID_Location	4203	6	
+2019-10-05 16:20:13	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	PCS	4203	3	
+2019-10-05 16:20:13	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	DateIn	4203	2019-10-04 08:17:08	
+2019-10-05 16:20:13	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	Imp_id	4203	20191004081620	
+2019-10-05 16:20:13	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	User_ID	4203		
+2019-10-05 16:20:13	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	Note_PalletId	4203	0968999328	
+2019-10-05 16:20:13	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	CreateUser	4203	ALST-0250	
+2019-10-05 16:20:13	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	CreateDate	4203	2019-10-04 08:17:09	
+2019-10-05 16:20:13	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	UpdateUser	4203	ALST-0250	
+2019-10-05 16:20:13	/asgbn_wh/tbl_stockdelete.php	-1	D	tbl_stock	UpdateDate	4203	2019-10-04 08:17:08	
+2019-10-05 16:20:13	/asgbn_wh/tbl_stockdelete.php	-1	*** Batch delete successful ***	tbl_stock				

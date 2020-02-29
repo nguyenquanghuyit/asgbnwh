@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+.mybody {
+   	height:100%;
+	z-index:300;
+	background:gray;	
+	transition: height 2s;
+	transition-delay:1s;
+}
+
+
+
+

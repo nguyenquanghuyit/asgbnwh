@@ -1,0 +1,89 @@
+date/time	script	user	action	table	field	key value	old value	new value
+2019-10-10 13:48:39	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	OrderDate	120		2019-10-10
+2019-10-10 13:48:39	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	InvoiceNo	120		
+2019-10-10 13:48:39	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CusomterOrderNo	120		0205E19X13
+2019-10-10 13:48:39	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	ID_Contact	120		70
+2019-10-10 13:48:39	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CreateUser	120		ASGBN
+2019-10-10 13:48:39	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CreateDate	120		2019-10-10 13:48:05
+2019-10-10 13:48:39	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	ID_Order	120		120
+2019-10-10 13:48:39	/asgbn_wh/tbl_orderadd.php	6	*** Batch insert begin ***	tbl_orderdetail				
+2019-10-10 13:48:39	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	Code	154		MN135221
+2019-10-10 13:48:39	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	PCS	154		1
+2019-10-10 13:48:39	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	ID_Order	154		120
+2019-10-10 13:48:39	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	ID_Detail	154		154
+2019-10-10 13:48:39	/asgbn_wh/tbl_orderadd.php	6	*** Batch insert successful ***	tbl_orderdetail				
+2019-10-10 13:48:43	/asgbn_wh/tbl_guiderlist.php	6	*** Batch update begin ***	tbl_guider				
+2019-10-10 13:48:43	/asgbn_wh/tbl_guiderlist.php	6	*** Batch update successful ***	tbl_guider				
+2019-10-10 13:54:48	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	OrderDate	121		2019-10-10
+2019-10-10 13:54:48	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	InvoiceNo	121		
+2019-10-10 13:54:48	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CusomterOrderNo	121		1203E19X06
+2019-10-10 13:54:48	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	ID_Contact	121		75
+2019-10-10 13:54:48	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CreateUser	121		ASGBN
+2019-10-10 13:54:48	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CreateDate	121		2019-10-10 13:53:21
+2019-10-10 13:54:48	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	ID_Order	121		121
+2019-10-10 13:54:48	/asgbn_wh/tbl_orderadd.php	6	*** Batch insert begin ***	tbl_orderdetail				
+2019-10-10 13:54:48	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	Code	155		8355A016
+2019-10-10 13:54:48	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	PCS	155		1
+2019-10-10 13:54:48	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	ID_Order	155		121
+2019-10-10 13:54:48	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	ID_Detail	155		155
+2019-10-10 13:54:48	/asgbn_wh/tbl_orderadd.php	6	*** Batch insert successful ***	tbl_orderdetail				
+2019-10-10 13:54:54	/asgbn_wh/tbl_guiderlist.php	6	*** Batch update begin ***	tbl_guider				
+2019-10-10 13:54:54	/asgbn_wh/tbl_guiderlist.php	6	*** Batch update successful ***	tbl_guider				
+2019-10-10 14:39:05	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	109		Y
+2019-10-10 14:39:34	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	108		Y
+2019-10-10 14:39:58	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	110		Y
+2019-10-10 14:56:51	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	112		Y
+2019-10-10 14:57:30	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	112	Y	
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	vwrouteout	RouteName	58		FROM ASGBN
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	vwrouteout	TruckNo	58		99T1-2071
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	vwrouteout	DriverName	58		Nguyễn Mậu Thụ
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	vwrouteout	DriverMobile	58		
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	vwrouteout	InvoiceNo	58		
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	vwrouteout	InvoiceDate	58		2019-10-10
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	vwrouteout	CreateUser	58		ASGBN
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	vwrouteout	CreateDate	58		2019-10-10 16:35:55
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	vwrouteout	InOrOut	58		OUT
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	vwrouteout	SealNo	58		
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	vwrouteout	ID_Route	58		58
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	*** Batch insert begin ***	tbl_loading				
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	ID_Order	109		102
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	CusomterOrderNo	109		0108E19X05
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	CreateUser	109		ASGBN
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	CreateDate	109		2019-10-10 16:37:54
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	UpdateUser	109		ASGBN
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	UpdateDate	109		2019-10-10 16:37:54
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	ID_Route	109		58
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	ID_Loading	109		109
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	ID_Order	110		103
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	CusomterOrderNo	110		1604E19X02
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	CreateUser	110		ASGBN
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	CreateDate	110		2019-10-10 16:37:54
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	UpdateUser	110		ASGBN
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	UpdateDate	110		2019-10-10 16:37:54
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	ID_Route	110		58
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	ID_Loading	110		110
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	ID_Order	111		108
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	CusomterOrderNo	111		0305E19X05
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	CreateUser	111		ASGBN
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	CreateDate	111		2019-10-10 16:37:54
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	UpdateUser	111		ASGBN
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	UpdateDate	111		2019-10-10 16:37:54
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	ID_Route	111		58
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	ID_Loading	111		111
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	ID_Order	112		109
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	CusomterOrderNo	112		0405E19X07
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	CreateUser	112		ASGBN
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	CreateDate	112		2019-10-10 16:37:54
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	UpdateUser	112		ASGBN
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	UpdateDate	112		2019-10-10 16:37:54
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	ID_Route	112		58
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	ID_Loading	112		112
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	ID_Order	113		110
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	CusomterOrderNo	113		0108E19X08
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	CreateUser	113		ASGBN
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	CreateDate	113		2019-10-10 16:37:54
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	UpdateUser	113		ASGBN
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	UpdateDate	113		2019-10-10 16:37:54
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	ID_Route	113		58
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	A	tbl_loading	ID_Loading	113		113
+2019-10-10 16:37:54	/asgbn_wh/vwrouteoutadd.php	6	*** Batch insert successful ***	tbl_loading				

@@ -1,0 +1,36 @@
+date/time	script	user	action	table	field	key value	old value	new value
+2019-10-22 14:10:50	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	OrderDate	136		2019-10-22
+2019-10-22 14:10:50	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	InvoiceNo	136		
+2019-10-22 14:10:50	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CusomterOrderNo	136		0108E19X24
+2019-10-22 14:10:50	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	ID_Contact	136		65
+2019-10-22 14:10:50	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CreateUser	136		ASGBN
+2019-10-22 14:10:50	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CreateDate	136		2019-10-22 14:10:08
+2019-10-22 14:10:50	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	ID_Order	136		136
+2019-10-22 14:10:50	/asgbn_wh/tbl_orderadd.php	6	*** Batch insert begin ***	tbl_orderdetail				
+2019-10-22 14:10:51	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	Code	170		MR229332...A6
+2019-10-22 14:10:51	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	PCS	170		1
+2019-10-22 14:10:51	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	ID_Order	170		136
+2019-10-22 14:10:51	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	ID_Detail	170		170
+2019-10-22 14:10:51	/asgbn_wh/tbl_orderadd.php	6	*** Batch insert successful ***	tbl_orderdetail				
+2019-10-22 14:11:01	/asgbn_wh/tbl_guiderlist.php	6	*** Batch update begin ***	tbl_guider				
+2019-10-22 14:11:01	/asgbn_wh/tbl_guiderlist.php	6	*** Batch update successful ***	tbl_guider				
+2019-10-22 15:21:52	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	CusomterOrderNo	97	0205E19X01	1203E19X01
+2019-10-22 15:21:52	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	ID_Contact	97	70	75
+2019-10-22 15:24:11	/asgbn_wh/tbl_loadingdelete.php	6	*** Batch delete begin ***	tbl_loading				
+2019-10-22 15:24:11	/asgbn_wh/tbl_loadingdelete.php	6	D	tbl_loading	ID_Loading	105	105	
+2019-10-22 15:24:11	/asgbn_wh/tbl_loadingdelete.php	6	D	tbl_loading	ID_Route	105	56	
+2019-10-22 15:24:11	/asgbn_wh/tbl_loadingdelete.php	6	D	tbl_loading	ID_Order	105	97	
+2019-10-22 15:24:11	/asgbn_wh/tbl_loadingdelete.php	6	D	tbl_loading	CreateUser	105	ASGBN	
+2019-10-22 15:24:11	/asgbn_wh/tbl_loadingdelete.php	6	D	tbl_loading	CreateDate	105	2019-10-04 15:28:05	
+2019-10-22 15:24:11	/asgbn_wh/tbl_loadingdelete.php	6	D	tbl_loading	UpdateUser	105	ASGBN	
+2019-10-22 15:24:11	/asgbn_wh/tbl_loadingdelete.php	6	D	tbl_loading	UpdateDate	105	2019-10-04 15:28:05	
+2019-10-22 15:24:11	/asgbn_wh/tbl_loadingdelete.php	6	D	tbl_loading	CusomterOrderNo	105	0205E19X01	
+2019-10-22 15:24:11	/asgbn_wh/tbl_loadingdelete.php	6	*** Batch delete successful ***	tbl_loading				
+2019-10-22 15:25:15	/asgbn_wh/tbl_loadinglist.php	6	A	tbl_loading	ID_Order	134		97
+2019-10-22 15:25:15	/asgbn_wh/tbl_loadinglist.php	6	A	tbl_loading	CusomterOrderNo	134		1203E19X01
+2019-10-22 15:25:15	/asgbn_wh/tbl_loadinglist.php	6	A	tbl_loading	CreateUser	134		ASGBN
+2019-10-22 15:25:15	/asgbn_wh/tbl_loadinglist.php	6	A	tbl_loading	CreateDate	134		2019-10-22 15:25:14
+2019-10-22 15:25:15	/asgbn_wh/tbl_loadinglist.php	6	A	tbl_loading	UpdateUser	134		ASGBN
+2019-10-22 15:25:15	/asgbn_wh/tbl_loadinglist.php	6	A	tbl_loading	UpdateDate	134		2019-10-22 15:25:14
+2019-10-22 15:25:15	/asgbn_wh/tbl_loadinglist.php	6	A	tbl_loading	ID_Route	134		56
+2019-10-22 15:25:15	/asgbn_wh/tbl_loadinglist.php	6	A	tbl_loading	ID_Loading	134		134

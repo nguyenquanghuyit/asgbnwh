@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2020/02/12" author="e.World Technology Ltd.">
+  <project id="{004E2122-9CCA-46AA-835C-0778C5A080BC}" file="D:\MegaDrive\BAN GIAO ANH HUY_DIC_ASGBN_WH\ASGBN_WH\asgbn_wh.pmp" name="asgbn_wh" product="PHPMaker" version="15.0" datetime="2020/02/12 14:08:47" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0">
+    <table id="tbl_contact" name="tbl_contact" caption="Contact" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_history" name="tbl_history" caption="History" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_location" name="tbl_location" caption="Location" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="nhanvien" name="nhanvien" caption="Staff" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_order" name="tbl_order" caption="Order" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_orderdetail" name="tbl_orderdetail" caption="Order detail" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_orderguide" name="tbl_orderguide" caption="Guide picking by order" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_pallet" name="tbl_pallet" caption="Labelling pallet" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_product" name="tbl_product" caption="Products" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_route" name="tbl_route" caption="Good received" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_stock" name="tbl_stock" caption="Stock" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_unload" name="tbl_unload" caption="Unload product" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_user" name="tbl_user" caption="Users acount" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="userlevelpermissions" name="userlevelpermissions" caption="userlevelpermissions" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="userlevels" name="userlevels" caption="userlevels" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="phongban" name="phongban" caption="Department" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="todoi" name="todoi" caption="Group name" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwcode_nopallet" name="vwcode_nopallet" caption="vwcode nopallet" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwcode_pallet" name="vwcode_pallet" caption="vwcode pallet" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_guider" name="tbl_guider" caption="Create plan" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwcodeunion" name="vwcodeunion" caption="vwcodeunion" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwmasterguide" name="vwmasterguide" caption="Order" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vvcheckexistpalletid" name="vvcheckexistpalletid" caption="vvcheckexistpalletid" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_stock_hnwh" name="tbl_stock_hnwh" caption="tbl stock hnwh" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwcodeinstock" name="vwcodeinstock" caption="vwcodeinstock" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_load_hnwh" name="tbl_load_hnwh" caption="tbl load hnwh" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_route_hnwh" name="tbl_route_hnwh" caption="tbl route hnwh" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwguidepicking" name="vwguidepicking" caption="Guide picking by order" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="view1" name="view1" caption="view 1" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="view_bbnhanhang" name="view_bbnhanhang" caption="view bbnhanhang" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vv_checklocationinstock" name="vv_checklocationinstock" caption="vv checklocationinstock" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_historyunload" name="tbl_historyunload" caption="tbl historyunload" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vt_order" name="vt_order" caption="Picking by order" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vt_orderguide" name="vt_orderguide" caption="Picking detail" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vt_sumpcsinhistory" name="vt_sumpcsinhistory" caption="vt sumpcsinhistory" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwhistoryorder" name="vwhistoryorder" caption="History" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwpickingbyorder" name="vwpickingbyorder" caption="Picking by order" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vworderdetail" name="vworderdetail" caption="Order detail" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_pickingdetail" name="tbl_pickingdetail" caption="tbl pickingdetail" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwrouteout" name="vwrouteout" caption="Shipping" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="view2" name="view2" caption="view 2" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_stocktmp" name="tbl_stocktmp" caption="tbl stocktmp" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwinboudsumary" name="vwinboudsumary" caption="Receive report" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwcodesummary" name="vwcodesummary" caption="Product total in stock" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_inventory" name="tbl_inventory" caption="Opening and Closing stock" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwinventory" name="vwinventory" caption="Inventory report" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwpcs_in_sum" name="vwpcs_in_sum" caption="vwpcs in sum" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwpcs_out_sum" name="vwpcs_out_sum" caption="vwpcs out sum" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="v_check_remain_hnwh" name="v_check_remain_hnwh" caption="v check remain hnwh" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="v_checkout_hnwh_tmp" name="v_checkout_hnwh_tmp" caption="v checkout hnwh tmp" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwsumpcs_code" name="vwsumpcs_code" caption="Sum by code" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwsumpcs_location" name="vwsumpcs_location" caption="Sum by location" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwsumpcs_nopallet" name="vwsumpcs_nopallet" caption="vwsumpcs nopallet" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwsumpcs_pallet" name="vwsumpcs_pallet" caption="vwsumpcs pallet" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="viewbbgiaohangwinform" name="viewbbgiaohangwinform" caption="viewbbgiaohangwinform" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_loading" name="tbl_loading" caption="Loading" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwroutepending" name="vwroutepending" caption="vwroutepending" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="wfviewcheckorder" name="wfviewcheckorder" caption="wfviewcheckorder" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwoutboudsumary" name="vwoutboudsumary" caption="Delivery" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_checkstock" name="tbl_checkstock" caption="Actual inventory" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_checkstockdetail" name="tbl_checkstockdetail" caption="Detail" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_history_pick" name="tbl_history_pick" caption="History Picking" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_load_audit_hnwh" name="tbl_load_audit_hnwh" caption="tbl load audit hnwh" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="v_history_sum_na" name="v_history_sum_na" caption="v history sum na" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="v_stock_android_na" name="v_stock_android_na" caption="v stock android na" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="view3" name="view3" caption="view 3" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="view_infoofordercustomer" name="view_infoofordercustomer" caption="view infoofordercustomer" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="viewcheckstock" name="viewcheckstock" caption="viewcheckstock" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="viewkiemkho" name="viewkiemkho" caption="viewkiemkho" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vt_orderguide_na" name="vt_orderguide_na" caption="vt orderguide na" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vt_orderguide_na0" name="vt_orderguide_na0" caption="vt orderguide na 0" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vtshowtblstock" name="vtshowtblstock" caption="vtshowtblstock" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwcode_loading" name="vwcode_loading" caption="vwcode loading" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vworder_not_route" name="vworder_not_route" caption="vworder not route" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vworderout" name="vworderout" caption="vworderout" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwinstocktotal" name="vwinstocktotal" caption="vwinstocktotal" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="viewprintsublable" name="viewprintsublable" caption="viewprintsublable" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwbroker" name="vwbroker" caption="Export product by customer" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_goodsinpack" name="tbl_goodsinpack" caption="Good in pack" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_packing" name="tbl_packing" caption="Packing" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_packingdetail" name="tbl_packingdetail" caption="Detail" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwtmp1" name="vwtmp1" caption="vwtmp 1" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="viewpacking" name="viewpacking" caption="viewpacking" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="packingpending" name="packingpending" caption="packingpending" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="packingpendingdetail" name="packingpendingdetail" caption="packingpendingdetail" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="pcsinpack" name="pcsinpack" caption="pcsinpack" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vworder_packing" name="vworder_packing" caption="vworder packing" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="packing" name="packing" caption="Packing" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwpacking_report" name="vwpacking_report" caption="vwpacking report" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="audittrail" name="audittrail" caption="Audit" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_palletmaster" name="tbl_palletmaster" caption="tbl palletmaster" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_unit" name="tbl_unit" caption="Units" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_product_detail" name="tbl_product_detail" caption="Product detail" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_order_po_inv" name="tbl_order_po_inv" caption="PO, Invoice No" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="showcodeinpalletid" name="showcodeinpalletid" caption="showcodeinpalletid" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="showrouteinfomation" name="showrouteinfomation" caption="showrouteinfomation" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="showtruckload" name="showtruckload" caption="showtruckload" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_producttype" name="tbl_producttype" caption="Product type" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="trucklist_pending" name="trucklist_pending" caption="trucklist pending" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="view_orderdetailcodespcs" name="view_orderdetailcodespcs" caption="view orderdetailcodespcs" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="view_packingcodesumpcs" name="view_packingcodesumpcs" caption="view packingcodesumpcs" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="waitpacking" name="waitpacking" caption="waitpacking" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vv_selectpcsinroute" name="vv_selectpcsinroute" caption="vv selectpcsinroute" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vv_selectpcsiroute" name="vv_selectpcsiroute" caption="vv selectpcsiroute" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwcode_type" name="vwcode_type" caption="vwcode type" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="viewgoodscustomename" name="viewgoodscustomename" caption="viewgoodscustomename" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="viewtest1" name="viewtest1" caption="viewtest 1" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="wfcheckpacking" name="wfcheckpacking" caption="wfcheckpacking" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="checkorder" name="checkorder" caption="checkorder" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="failed_jobs" name="failed_jobs" caption="failed jobs" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="getinfocode" name="getinfocode" caption="getinfocode" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="migrations" name="migrations" caption="migrations" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="password_resets" name="password_resets" caption="password resets" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="users" name="users" caption="users" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="v_showpackedlist" name="v_showpackedlist" caption="v showpackedlist" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="viewprintsublable_new" name="viewprintsublable_new" caption="viewprintsublable new" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="viewzalostock" name="viewzalostock" caption="viewzalostock" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vw_getorder" name="vw_getorder" caption="vw getorder" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwcurrentcode" name="vwcurrentcode" caption="vwcurrentcode" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="fox_inboudsumary" name="fox_inboudsumary" caption="Fox Receive" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="ina_inboudsumary" name="ina_inboudsumary" caption="Inabata Receive" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="mitsu_inboudsumary" name="mitsu_inboudsumary" caption="Mitsu Receive" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="spica_inboudsumary" name="spica_inboudsumary" caption="Spica Receive" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_route_bak" name="tbl_route_bak" caption="tbl route bak" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="fox_outboudsumary" name="fox_outboudsumary" caption="Fox Delivery" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="ina_outboudsumary" name="ina_outboudsumary" caption="INA Delivery" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="mitsu_outboudsumary" name="mitsu_outboudsumary" caption="MITSU Delivery" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="spica_outboudsumary" name="spica_outboudsumary" caption="SPICA Delivery" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="foxconn_sumbycode" name="foxconn_sumbycode" caption="Foxconn sum by code" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="inabata_sumbycode" name="inabata_sumbycode" caption="Inabata sum by code" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="mitsubishi_sumbycode" name="mitsubishi_sumbycode" caption="Mitsubishi sum by code" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="spica_sumbycode" name="spica_sumbycode" caption="Spica sum by code" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="foxco_pcs_location" name="foxco_pcs_location" caption="FOXCONN" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="ina_pcs_location" name="ina_pcs_location" caption="INA" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="mitsu_pcs_location" name="mitsu_pcs_location" caption="MITSU" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="spica_pcs_location" name="spica_pcs_location" caption="SPICA" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="foxconninventory" name="foxconninventory" caption="FOXCONN INVENTORY" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="inabata_inventory" name="inabata_inventory" caption="INABATA INVENTORY" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="mitsubishi_inventory" name="mitsubishi_inventory" caption="MITSU INVENTORY" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="spica_inventory" name="spica_inventory" caption="SPICA INVENTORY" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="checkorder_copy1" name="checkorder_copy1" caption="checkorder copy 1" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="foxconn_sumbycode_copy1" name="foxconn_sumbycode_copy1" caption="foxconn sumbycode copy 1" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwStock" name="vwStock" caption="Product In Stock" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="v_stock_android_na_v2" name="v_stock_android_na_v2" caption="v stock android na v 2" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vt_orderguide_na0_v2" name="vt_orderguide_na0_v2" caption="vt orderguide na 0 v 2" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwPackingdetail" name="vwPackingdetail" caption="Packingdetail" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwPcsGuide" name="vwPcsGuide" caption="vw Pcs Guide" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwPcsStock" name="vwPcsStock" caption="vw Pcs Stock" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwhistoryPicking" name="vwhistoryPicking" caption="history Picking" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="vwRouteUnload" name="vwRouteUnload" caption="vw Route Unload" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+  </project>
+</configuration>

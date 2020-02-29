@@ -1,0 +1,19 @@
+date/time	script	user	action	table	field	key value	old value	new value
+2019-10-24 11:20:26	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	140		Y
+2019-10-24 11:20:41	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	139		Y
+2019-10-24 11:20:57	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	137		Y
+2019-10-24 11:26:51	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	137	Y	Y17550481
+2019-10-24 11:27:20	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	139	Y	Y17550411
+2019-10-24 11:27:38	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	140	Y	Y17550461
+2019-10-24 11:34:14	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	136	Y	Y17550402
+2019-10-24 16:22:31	/asgbn_wh/vwrouteoutedit.php	6	U	vwrouteout	TruckNo	64	54 6910	54Y 6910
+2019-10-24 16:22:50	/asgbn_wh/vwrouteoutedit.php	6	U	vwrouteout	RouteName	64		FROM ASGBN
+2019-10-24 16:27:30	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	140	Y17550461	17550461
+2019-10-24 16:27:37	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	139	Y17550411	17550411
+2019-10-24 16:27:43	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	137	Y17550481	17550481
+2019-10-24 16:27:50	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	136	Y17550402	17550402
+2019-10-24 16:27:59	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	135	Y17550426	17550426
+2019-10-24 16:28:10	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	134	Y17550423	17550423
+2019-10-24 16:28:17	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	133	Y17550525	17550525
+2019-10-24 16:28:25	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	132	Y17550519	17550519
+2019-10-24 16:28:33	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	131	Y17550526	17550526

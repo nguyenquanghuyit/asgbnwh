@@ -1,0 +1,39 @@
+date/time	script	user	action	table	field	key value	old value	new value
+2019-10-11 15:37:45	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	OrderDate	122		2019-10-11
+2019-10-11 15:37:45	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	InvoiceNo	122		
+2019-10-11 15:37:45	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CusomterOrderNo	122		0108M19X01
+2019-10-11 15:37:45	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	ID_Contact	122		65
+2019-10-11 15:37:45	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CreateUser	122		ASGBN
+2019-10-11 15:37:45	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CreateDate	122		2019-10-11 15:36:52
+2019-10-11 15:37:45	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	ID_Order	122		122
+2019-10-11 15:37:45	/asgbn_wh/tbl_orderadd.php	6	*** Batch insert begin ***	tbl_orderdetail				
+2019-10-11 15:37:45	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	Code	156		MR229331...A9
+2019-10-11 15:37:45	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	PCS	156		2
+2019-10-11 15:37:45	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	ID_Order	156		122
+2019-10-11 15:37:45	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	ID_Detail	156		156
+2019-10-11 15:37:45	/asgbn_wh/tbl_orderadd.php	6	*** Batch insert successful ***	tbl_orderdetail				
+2019-10-11 15:37:50	/asgbn_wh/tbl_guiderlist.php	6	*** Batch update begin ***	tbl_guider				
+2019-10-11 15:37:50	/asgbn_wh/tbl_guiderlist.php	6	*** Batch update successful ***	tbl_guider				
+2019-10-11 15:57:08	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	112		Y
+2019-10-11 15:58:14	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	115		Y
+2019-10-11 15:58:34	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	120		Y
+2019-10-11 15:58:52	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	121		Y
+2019-10-11 15:59:22	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	113		Y
+2019-10-11 15:59:49	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	119		Y
+2019-10-11 15:59:59	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	116		Y
+2019-10-11 16:16:00	/asgbn_wh/vwrouteoutdelete.php	6	*** Batch delete begin ***	vwrouteout				
+2019-10-11 16:16:00	/asgbn_wh/vwrouteoutdelete.php	6	D	vwrouteout	ID_Route	59	59	
+2019-10-11 16:16:00	/asgbn_wh/vwrouteoutdelete.php	6	D	vwrouteout	RouteName	59	ASGBN	
+2019-10-11 16:16:00	/asgbn_wh/vwrouteoutdelete.php	6	D	vwrouteout	TruckNo	59	29C-95506	
+2019-10-11 16:16:00	/asgbn_wh/vwrouteoutdelete.php	6	D	vwrouteout	DriverName	59	DAO MANH QUANG	
+2019-10-11 16:16:00	/asgbn_wh/vwrouteoutdelete.php	6	D	vwrouteout	DriverMobile	59		
+2019-10-11 16:16:00	/asgbn_wh/vwrouteoutdelete.php	6	D	vwrouteout	InvoiceNo	59		
+2019-10-11 16:16:00	/asgbn_wh/vwrouteoutdelete.php	6	D	vwrouteout	InvoiceDate	59		
+2019-10-11 16:16:00	/asgbn_wh/vwrouteoutdelete.php	6	D	vwrouteout	CreateUser	59	trantrongtan	
+2019-10-11 16:16:00	/asgbn_wh/vwrouteoutdelete.php	6	D	vwrouteout	CreateDate	59	2019-10-11 16:09:25	
+2019-10-11 16:16:00	/asgbn_wh/vwrouteoutdelete.php	6	D	vwrouteout	UpdateUser	59		
+2019-10-11 16:16:00	/asgbn_wh/vwrouteoutdelete.php	6	D	vwrouteout	UpdateDate	59		
+2019-10-11 16:16:00	/asgbn_wh/vwrouteoutdelete.php	6	D	vwrouteout	InOrOut	59	OUT	
+2019-10-11 16:16:00	/asgbn_wh/vwrouteoutdelete.php	6	D	vwrouteout	FinishUnload	59	0	
+2019-10-11 16:16:00	/asgbn_wh/vwrouteoutdelete.php	6	D	vwrouteout	SealNo	59	123456	
+2019-10-11 16:16:00	/asgbn_wh/vwrouteoutdelete.php	6	*** Batch delete successful ***	vwrouteout				

@@ -1,0 +1,17 @@
+date/time	script	user	action	table	field	key value	old value	new value
+2019-10-15 09:51:42	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	109	Y	Y  17550467
+2019-10-15 11:20:11	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	112	Y	Y 17550409
+2019-10-15 11:20:36	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	116	Y	Y 17550419
+2019-10-15 11:20:53	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	115	Y	Y17550414
+2019-10-15 11:21:10	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	121	Y	Y17550385
+2019-10-15 11:21:26	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	113	Y	Y17550412
+2019-10-15 11:21:42	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	120	Y	Y17550451
+2019-10-15 11:22:08	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	119	Y	Y17550440
+2019-10-15 11:26:46	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	112	Y 17550409	Y
+2019-10-15 11:27:45	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	112	Y	
+2019-10-15 11:33:39	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	112		17550409
+2019-10-15 11:34:01	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	112	17550409	Y 17550409
+2019-10-15 14:52:52	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	123		Y17550516
+2019-10-15 14:54:34	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	122		Y17550478
+2019-10-15 14:57:26	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	124		Y17550501
+2019-10-15 14:59:19	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	125		Y17550396

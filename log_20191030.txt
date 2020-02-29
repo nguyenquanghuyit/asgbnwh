@@ -1,0 +1,21 @@
+date/time	script	user	action	table	field	key value	old value	new value
+2019-10-30 08:30:17	/ASGBN_WH/tbl_product_detailadd.php	-1	A	tbl_product_detail	CODE	3		1000A406
+2019-10-30 08:30:17	/ASGBN_WH/tbl_product_detailadd.php	-1	A	tbl_product_detail	PackingQty	3		
+2019-10-30 08:30:17	/ASGBN_WH/tbl_product_detailadd.php	-1	A	tbl_product_detail	IdUnit	3		1
+2019-10-30 08:30:17	/ASGBN_WH/tbl_product_detailadd.php	-1	A	tbl_product_detail	DefaultCode	3		0
+2019-10-30 08:30:17	/ASGBN_WH/tbl_product_detailadd.php	-1	A	tbl_product_detail	IdCode	3		3
+2019-10-30 08:34:28	/ASGBN_WH/tbl_product_detaildelete.php	-1	*** Batch delete begin ***	tbl_product_detail				
+2019-10-30 08:34:29	/ASGBN_WH/tbl_product_detaildelete.php	-1	D	tbl_product_detail	IdCode	3	3	
+2019-10-30 08:34:29	/ASGBN_WH/tbl_product_detaildelete.php	-1	D	tbl_product_detail	CODE	3	1000A406	
+2019-10-30 08:34:29	/ASGBN_WH/tbl_product_detaildelete.php	-1	D	tbl_product_detail	PackingQty	3		
+2019-10-30 08:34:29	/ASGBN_WH/tbl_product_detaildelete.php	-1	D	tbl_product_detail	IdUnit	3	1	
+2019-10-30 08:34:29	/ASGBN_WH/tbl_product_detaildelete.php	-1	D	tbl_product_detail	DefaultCode	3	0	
+2019-10-30 08:34:29	/ASGBN_WH/tbl_product_detaildelete.php	-1	*** Batch delete successful ***	tbl_product_detail				
+2019-10-30 13:42:50	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	152		y17550521
+2019-10-30 13:44:20	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	153		y17550486
+2019-10-30 13:45:31	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	150		y17550399
+2019-10-30 13:45:52	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	151		y17550431
+2019-10-30 14:57:16	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	153	y17550486	17550486
+2019-10-30 14:57:24	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	152	y17550521	17550521
+2019-10-30 14:57:30	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	151	y17550431	17550431
+2019-10-30 14:57:36	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	150	y17550399	17550399

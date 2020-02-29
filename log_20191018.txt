@@ -1,0 +1,68 @@
+date/time	script	user	action	table	field	key value	old value	new value
+2019-10-18 08:51:42	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	100	Y	0036336
+2019-10-18 08:52:00	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	101	Y	0036337
+2019-10-18 08:53:52	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	94	Y	0036287
+2019-10-18 08:54:13	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	87	Y	0036240
+2019-10-18 08:54:33	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	88	Y	0036241
+2019-10-18 08:54:46	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	92	Y	0036242
+2019-10-18 08:54:58	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	91	Y	0036243
+2019-10-18 08:55:09	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	90	Y	0036244
+2019-10-18 08:55:41	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	102	Y	0036359
+2019-10-18 08:56:02	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	103	Y	0036436
+2019-10-18 08:57:17	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	125	Y17550396	17550396
+2019-10-18 08:57:44	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	125	17550396	Y 17550396
+2019-10-18 11:55:38	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	81	Y	Y 17550530
+2019-10-18 12:00:38	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	90	0036244	Y 17550505
+2019-10-18 12:01:37	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	108	Y	Y 17550450
+2019-10-18 12:02:02	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	103	0036436	Y 17550368
+2019-10-18 12:03:11	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	88	0036241	Y 17550495
+2019-10-18 12:03:39	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	126	Y	Y 17550375
+2019-10-18 12:04:24	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	126	Y 17550375	Y
+2019-10-18 12:04:55	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	100	0036336	Y 17550372
+2019-10-18 12:05:13	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	92	0036242	17550538
+2019-10-18 12:05:31	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	91	0036243	17550493
+2019-10-18 12:06:04	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	77	Y	Y 17550499
+2019-10-18 12:06:43	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	80	Y	Y 17550388
+2019-10-18 12:07:08	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	78	Y	Y 17550533
+2019-10-18 12:08:01	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	82	Y	Y 17550369
+2019-10-18 12:08:37	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	102	0036359	Y
+2019-10-18 12:08:45	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	101	0036337	Y
+2019-10-18 12:08:54	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	94	0036287	Y
+2019-10-18 12:09:08	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	87	0036240	
+2019-10-18 13:21:18	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	128		Y
+2019-10-18 13:21:48	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	128	Y	Y 17550387
+2019-10-18 13:22:23	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	127	Y	Y 17550373
+2019-10-18 13:22:36	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	126	Y	Y 17550488
+2019-10-18 13:26:12	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	OrderDate	129		2019-10-18
+2019-10-18 13:26:12	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	InvoiceNo	129		
+2019-10-18 13:26:12	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CusomterOrderNo	129		0108E19X21
+2019-10-18 13:26:12	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	ID_Contact	129		65
+2019-10-18 13:26:12	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CreateUser	129		ASGBN
+2019-10-18 13:26:12	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CreateDate	129		2019-10-18 13:25:55
+2019-10-18 13:26:12	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	ID_Order	129		129
+2019-10-18 13:26:12	/asgbn_wh/tbl_orderadd.php	6	*** Batch insert begin ***	tbl_orderdetail				
+2019-10-18 13:26:12	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	Code	163		CW726710
+2019-10-18 13:26:12	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	PCS	163		1
+2019-10-18 13:26:12	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	ID_Order	163		129
+2019-10-18 13:26:12	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	ID_Detail	163		163
+2019-10-18 13:26:12	/asgbn_wh/tbl_orderadd.php	6	*** Batch insert successful ***	tbl_orderdetail				
+2019-10-18 13:26:15	/asgbn_wh/tbl_guiderlist.php	6	*** Batch update begin ***	tbl_guider				
+2019-10-18 13:26:15	/asgbn_wh/tbl_guiderlist.php	6	*** Batch update successful ***	tbl_guider				
+2019-10-18 13:26:46	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	OrderDate	130		2019-10-18
+2019-10-18 13:26:46	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	InvoiceNo	130		
+2019-10-18 13:26:46	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CusomterOrderNo	130		0113S19X02
+2019-10-18 13:26:46	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	ID_Contact	130		67
+2019-10-18 13:26:46	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CreateUser	130		ASGBN
+2019-10-18 13:26:46	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	CreateDate	130		2019-10-18 13:26:26
+2019-10-18 13:26:46	/asgbn_wh/tbl_orderadd.php	6	A	tbl_order	ID_Order	130		130
+2019-10-18 13:26:46	/asgbn_wh/tbl_orderadd.php	6	*** Batch insert begin ***	tbl_orderdetail				
+2019-10-18 13:26:46	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	Code	164		MZ320761
+2019-10-18 13:26:46	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	PCS	164		144
+2019-10-18 13:26:46	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	ID_Order	164		130
+2019-10-18 13:26:46	/asgbn_wh/tbl_orderadd.php	6	A	tbl_orderdetail	ID_Detail	164		164
+2019-10-18 13:26:46	/asgbn_wh/tbl_orderadd.php	6	*** Batch insert successful ***	tbl_orderdetail				
+2019-10-18 13:26:51	/asgbn_wh/tbl_guiderlist.php	6	*** Batch update begin ***	tbl_guider				
+2019-10-18 13:26:51	/asgbn_wh/tbl_guiderlist.php	6	*** Batch update successful ***	tbl_guider				
+2019-10-18 16:18:38	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	128	Y 17550387	17550387
+2019-10-18 16:18:47	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	127	Y 17550373	17550373
+2019-10-18 16:18:54	/asgbn_wh/tbl_orderedit.php	6	U	tbl_order	InvoiceNo	126	Y 17550488	17550488
